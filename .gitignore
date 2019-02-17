@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# compiled js and js.map files
+**/*.js
+**/*.js.map

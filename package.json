@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha-typescript": "^1.1.17"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
